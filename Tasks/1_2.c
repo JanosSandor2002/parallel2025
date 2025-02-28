@@ -1,4 +1,4 @@
-#include <stdio.h>  // Itt van a printf függvény
+#include <stdio.h> 
 
 // Szóközökkel történő kiírás (jobbra igazítva)
 void print_with_spaces(int num) {

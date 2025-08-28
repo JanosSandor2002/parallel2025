@@ -1,0 +1,5 @@
+Method,Time,Error
+Rectangular (Seq),0.063000,0.386220
+Trapezoidal (Seq),0.067000,0.386218
+Rectangular (Parallel),0.012000,0.386220
+Trapezoidal (Parallel),0.017000,0.386218

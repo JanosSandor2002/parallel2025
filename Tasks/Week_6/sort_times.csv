@@ -1,0 +1,4 @@
+Algoritmus,Növekedési idő
+Szekvenciális merge sort,0.031000
+Párhuzamos merge sort,10.383000
+Minimumkiválasztásos rendezés,11.750000
